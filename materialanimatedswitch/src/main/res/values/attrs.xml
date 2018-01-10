@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="materialAnimatedSwitch">
+    <attr name="icon_release"
+        format="reference"/>
+    <attr name="icon_press"
+        format="reference"/>
+    <attr name="base_release_color"
+        format="color"/>
+    <attr name="base_press_color"
+        format="color"/>
+    <attr name="ball_release_color"
+        format="color"/>
+    <attr name="ball_press_color"
+        format="color"/>
+    <attr name="cus_icon_size" format="dimension"/>
+    <attr name="cus_switch_margin" format="dimension"/>
+    <attr name="cus_ball_radus" format="dimension"/>
+    <attr name="cus_ball_start_position" format="dimension"/>
+    <attr name="cus_switch_width" format="dimension"/>
+    <attr name="cus_switch_height" format="dimension"/>
+
+  </declare-styleable>
+</resources>
