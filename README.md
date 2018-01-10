@@ -1,4 +1,7 @@
 # MaterialAnimatedSwitch
-MaterialAnimatedSwitch
-先给自己挖个坑，后后填。
-
+创作初衷
+========
+<p>首先声明一下，这个东东并不是我的原创，而是在他人的基础上修改的。
+原作地址：https://github.com/glomadrian/material-animated-switch
+原作已经非常不错了，但有一个问题，有很多人都问过，作者并没有解决，那就是这个switch非常小，而且尺寸无法调整。所以自己在其基础上增加了几个进行尺寸调整的参数，所以做的工作并不多。</p>
+<p>然后自己再增加一点教程，做的工作非常少。当然教程后续会一点一点加</p>
